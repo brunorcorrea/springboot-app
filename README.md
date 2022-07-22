@@ -23,5 +23,4 @@ This is a example of Spring Boot App created to study Spring Framework.
  
 # List Authors
   http://localhost:8080/authors
-
 ```
